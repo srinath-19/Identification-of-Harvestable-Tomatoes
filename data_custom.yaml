@@ -1,0 +1,8 @@
+
+train: /content/drive/MyDrive/8 ABN Antenna Projects/dataset_tomato/train 
+val: /content/drive/MyDrive/8 ABN Antenna Projects/dataset_tomato/val 
+
+
+
+nc: 3  
+names: ['green','fully_ripened','half_ripened']  
